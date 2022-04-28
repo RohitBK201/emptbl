@@ -1,0 +1,40 @@
+{
+  "Users": [
+    {
+      "formData": {
+        "username": "user1",
+        "age": "21",
+        "address": "add1",
+        "salary": "20000",
+        "select": "d1",
+        "M": "Married",
+        "S": "Single"
+      },
+      "id": 1
+    },
+    {
+      "formData": {
+        "username": "user2",
+        "age": "23",
+        "address": "add2",
+        "salary": "25000",
+        "select": "d2",
+        "M": "Married",
+        "S": "Single"
+      },
+      "id": 2
+    },
+    {
+      "formData": {
+        "username": "user3",
+        "age": "25",
+        "address": "add3",
+        "salary": "35000",
+        "select": "d2",
+        "M": "Married",
+        "S": "Single"
+      },
+      "id": 3
+    }
+  ]
+}
